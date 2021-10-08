@@ -26,8 +26,7 @@ DB_NAME=store
 COLLECTION_NAME=products
 DATA_FILE=products.json
 
-${MONGODB_PATH}/bin/mongoimport --db $DB_NAME --collection $COLLECTION_NAME --file $DATA_FILE
-
+${MONGODB_PATH}/bin/mongoimport --db $DB_NAME --collection $COLLECTION_NAME --file $DATA_FILE --jsonArray
 #We can also use mongorestore, eg with commands of the form:
 #${MONGODB_PATH}/bin/mongorestore --drop --db $DBNAME $DATA_FILE
 
