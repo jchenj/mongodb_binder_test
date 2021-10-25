@@ -1,8 +1,11 @@
 # mongodb_binder_test
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD?labpath=Section_1.ipynb)
+
+<!--Badge to launch repo without navigating to specific notebook -->
 <!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD)
  -->
+ 
 1. Click the 'Launch Binder' button to load the lab. 
 2. The binder will start to load w/ screen below. No action needed from your side. 
 <img width="1358" alt="Screen Shot 2021-10-07 at 11 07 08 PM" src="https://user-images.githubusercontent.com/45462803/137853309-95468c87-ba5a-4634-bb95-a8ad7cc229db.png">
