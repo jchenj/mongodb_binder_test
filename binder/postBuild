@@ -23,15 +23,21 @@ ${MONGODB_PATH}/bin/mongod --dbpath $MONGO_DBPATH &
 
 echo "Seed db..."
 DB_NAME=sample_mflix
-COLLECTION_NAME=movies
-DATA_FILE=movies.json
 
-${MONGODB_PATH}/bin/mongoimport --db $DB_NAME --collection $COLLECTION_NAME --file $DATA_FILE --jsonArray
+COLLECTION_NAME1=movies
+DATA_FILE1=movies.json
+
+COLLECTION_NAME2=comments
+DATA_FILE2=comments.json
+
+${MONGODB_PATH}/bin/mongoimport --db $DB_NAME --collection $COLLECTION_NAME1 --file $DATA_FILE1 --jsonArray
+${MONGODB_PATH}/bin/mongoimport --db $DB_NAME --collection $COLLECTION_NAME2 --file $DATA_FILE2 --jsonArray
 #We can also use mongorestore, eg with commands of the form:
 #${MONGODB_PATH}/bin/mongorestore --drop --db $DBNAME $DATA_FILE
 
 echo "Tidy up seed data..."
 rm movies.json
+rm comments.json 
 
 #Cleanly shutdown the mongo server
 ${MONGODB_PATH}/bin/mongod --shutdown --dbpath $MONGO_DBPATH
