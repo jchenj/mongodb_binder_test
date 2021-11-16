@@ -22,16 +22,16 @@ echo "Start mongodb so we can see it..."
 ${MONGODB_PATH}/bin/mongod --dbpath $MONGO_DBPATH &
 
 echo "Seed db..."
-DB_NAME=store
-COLLECTION_NAME=products
-DATA_FILE=products.json
+DB_NAME=sample_mflix
+COLLECTION_NAME=movies
+DATA_FILE=movies.json
 
 ${MONGODB_PATH}/bin/mongoimport --db $DB_NAME --collection $COLLECTION_NAME --file $DATA_FILE --jsonArray
 #We can also use mongorestore, eg with commands of the form:
 #${MONGODB_PATH}/bin/mongorestore --drop --db $DBNAME $DATA_FILE
 
 echo "Tidy up seed data..."
-rm products.json
+rm movies.json
 
 #Cleanly shutdown the mongo server
 ${MONGODB_PATH}/bin/mongod --shutdown --dbpath $MONGO_DBPATH
