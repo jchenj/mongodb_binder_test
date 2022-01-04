@@ -8,9 +8,8 @@
  
 1. Click the 'Launch Binder' button to load the lab. 
 2. The binder will start to load w/ screen below. No action needed from your side. 
-<img width="1358" alt="Screen Shot 2021-10-07 at 11 07 08 PM" src="https://user-images.githubusercontent.com/45462803/137853309-95468c87-ba5a-4634-bb95-a8ad7cc229db.png">
+<img width="1745" alt="Screen Shot 2022-01-03 at 9 07 29 PM" src="https://user-images.githubusercontent.com/45462803/148000414-0c5890ce-6af0-4d22-b095-bf1c335a55e4.png">
 3. Loading will continue w/ screen below. Continue to wait. This may take a minute or two.
 <img width="1358" alt="Screen Shot 2021-10-07 at 11 07 25 PM" src="https://user-images.githubusercontent.com/45462803/137853428-861318e0-517f-4bcc-9a60-ffca5823d2d5.png">
 4. Screen below will appear when loading is complete.
-<img width="1496" alt="Screen Shot 2021-10-26 at 12 26 48 AM" src="https://user-images.githubusercontent.com/45462803/138962892-fc7dcb63-b30e-4214-ab33-b966fe25e4de.png">
- 
+<img width="1724" alt="Screen Shot 2022-01-03 at 9 08 07 PM" src="https://user-images.githubusercontent.com/45462803/148000464-52c58467-5c15-42fc-a79b-1e8a4108523d.png">
