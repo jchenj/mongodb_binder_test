@@ -1,4 +1,4 @@
-# MongoDB Lab using Python (PyMongo driver)
+# MongoDB Lab using Python 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD?labpath=Contents.ipynb)
 
