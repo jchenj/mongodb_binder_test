@@ -8,6 +8,11 @@
 
 This is a lab designed to provide practice using MongoDB with Python, using the [PyMongo](https://docs.mongodb.com/drivers/pymongo/) driver. 
 
+Educators and learners are welcome to use this lab for non-commercial purposes, under the terms of its license. 
+
+This material is an educational resource developed by the [MongoDB for Academia](https://www.mongodb.com/developer/academia/) program. 
+
+
 ## Format 
 The lab consists of five sections: 
 1. Connect to MongoDB & explore your data (4 exercises)
@@ -21,7 +26,8 @@ The lab consists of five sections:
 <!--Badge to launch repo without navigating to specific notebook -->
 <!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD)
  -->
- 
+
+## Usage
 1. Click the 'Launch Binder' button to load the lab. 
 2. The binder will start to load w/ screen below. No action needed from your side. 
 <img width="1745" alt="Screen Shot 2022-01-03 at 9 07 29 PM" src="https://user-images.githubusercontent.com/45462803/148000414-0c5890ce-6af0-4d22-b095-bf1c335a55e4.png">
@@ -32,7 +38,7 @@ The lab consists of five sections:
 
 ## Acknowledgements
 This lab makes use of the following open-source projects:
-* The [BinderHub](https://github.com/jupyterhub/binderhub) deployment at [mybinder.org](https://mybinder.org/) for creating an easy way to share a custom computing environment for an educational resource. Thank you Tim Head and all [Binder](https://jupyter.org/binder) contributors & supporters!  
+* The [BinderHub](https://github.com/jupyterhub/binderhub) deployment at [mybinder.org](https://mybinder.org/) for creating an easy way to share a custom computing environment for an educational resource. Thank you to all [Binder](https://jupyter.org/binder) contributors & supporters!  
 * [binder-mongo](https://github.com/ouseful-template-repos/binder-mongo) for the template example of running MongoDB in Binder on which this lab is based. Thank you [@psychemedia](https://github.com/psychemedia)!
 
 ## License
