@@ -1,4 +1,4 @@
-# MongoDB Lab - Exercises Using MongoDB with Python 
+# MongoDB Lab - Using MongoDB with Python 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD?labpath=Contents.ipynb)
 
