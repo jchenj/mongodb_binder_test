@@ -33,7 +33,7 @@ The lab consists of five sections:
 ## Acknowledgements
 This lab makes use of the following open-source projects:
 * The [BinderHub](https://github.com/jupyterhub/binderhub) deployment at [mybinder.org](https://mybinder.org/) for creating an easy way to share a custom computing environment for an educational resource. Thank you Tim Head and all [Binder](https://jupyter.org/binder) contributors & supporters!  
-* [binder-mongo](https://github.com/ouseful-template-repos/binder-mongo) for the template example of running MongoDB in Binder. Thank you @psychemedia!
+* [binder-mongo](https://github.com/ouseful-template-repos/binder-mongo) for the template example of running MongoDB in Binder on which this lab is based. Thank you [@psychemedia](https://github.com/psychemedia)!
 
 ## License
 This project is licensed under a
