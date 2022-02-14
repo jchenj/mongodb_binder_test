@@ -8,7 +8,7 @@
 
 This is a lab designed to provide practice using MongoDB with Python, using the [PyMongo](https://docs.mongodb.com/drivers/pymongo/) driver. 
 
-Educators and learners are welcome to use this lab for non-commercial purposes, under the terms of its license. 
+Educators and learners are welcome to use this lab for non-commercial purposes, under the terms of its [license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
 This material is an educational resource developed by the [MongoDB for Academia](https://www.mongodb.com/developer/academia/) program. 
 
