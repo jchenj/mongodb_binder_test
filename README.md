@@ -1,4 +1,20 @@
+<div align='center'>
+ 
 # MongoDB Lab - Using MongoDB with Python 
+ [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+ 
+</div>
+<br>
+
+This is a lab designed to provide practice using MongoDB with Python, using the [PyMongo](https://docs.mongodb.com/drivers/pymongo/) driver. 
+
+## Format 
+The lab consists of five sections: 
+1. Connect to MongoDB & explore your data (4 exercises)
+2. Basic queries (5 exercises)
+3. More complex queries (4 exercises)
+4. Creating and manipulating documents (4 exercises)
+5. Using aggregation pipelines (5 exercises)
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD?labpath=Contents.ipynb)
 
@@ -14,12 +30,14 @@
 4. Screen below will appear when loading is complete.
 <img width="1724" alt="Screen Shot 2022-01-03 at 9 08 07 PM" src="https://user-images.githubusercontent.com/45462803/148000464-52c58467-5c15-42fc-a79b-1e8a4108523d.png">
 
-Shield: [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
+## Acknowledgements
+This lab makes use of the following open-source projects:
+* [Binder](https://jupyter.org/binder)
+* [binder-mongo](https://github.com/ouseful-template-repos/binder-mongo)
 
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+## License
+This project is licensed under a
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
