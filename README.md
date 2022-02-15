@@ -10,8 +10,7 @@ This is a lab designed to provide practice using MongoDB with Python, using the 
 
 Educators and learners are welcome to use this lab for non-commercial purposes, under the terms of its [license](https://creativecommons.org/licenses/by-nc-sa/4.0/). 
 
-This material is an educational resource developed by the [MongoDB for Academia](https://www.mongodb.com/developer/academia/) program. 
-
+This material is a resource developed by the [MongoDB for Academia](https://www.mongodb.com/developer/academia/) program, which offers resources and support to educators and students teaching and learning with MongoDB. 
 
 ## Format 
 The lab consists of five sections, with a total of 22 exercises: 
@@ -20,6 +19,11 @@ The lab consists of five sections, with a total of 22 exercises:
 3. More complex queries (4 exercises)
 4. Creating and manipulating documents (4 exercises)
 5. Using aggregation pipelines (5 exercises)
+
+Each section is in a [Jupyter Notebook](https://jupyter.org/). The lab can be completed interactively in the browser in cloud-hosted Jupyter Notebooks created with [Binder](https://mybinder.org/). 
+
+## Maximum concurrent users
+The maximum number of simultaneous users for a given Binder repo is 100. For this reason, please avoid using this lab with Binder for large classes. If you have need for more concurrent users, consider runnnig the lab locally by cloning the repo and running on a local Jupyter server.
 
 ## Usage
 1. Click the 'Launch Binder' button to load the lab. 
@@ -45,7 +49,9 @@ This lab makes use of the following open-source projects:
 
 ## License
 This project is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa]. 
+
+<!-- [![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa] -->
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
