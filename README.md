@@ -22,9 +22,6 @@ The lab consists of five sections, with a total of 22 exercises:
 
 Each section is in a [Jupyter Notebook](https://jupyter.org/). The lab is designed to be completed interactively in the browser in cloud-hosted Jupyter Notebooks created with [Binder](https://mybinder.org/). 
 
-## Maximum concurrent users
-The maximum number of simultaneous users for a given Binder repo is 100. For this reason, please avoid using this lab with Binder for large classes. If you have need for more concurrent users, consider runnnig the lab locally by cloning the repo and running on a local Jupyter server.
-
 ## Usage
 1. Click the 'Launch Binder' button to load the lab. 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD?labpath=Contents.ipynb)
@@ -38,6 +35,11 @@ The maximum number of simultaneous users for a given Binder repo is 100. For thi
 <img width="1766" alt="Screen Shot 2022-01-03 at 9 40 19 PM" src="https://user-images.githubusercontent.com/45462803/148002500-b3b52791-fdbb-47d5-a8dc-3d2dcc45816b.png">
 4. Screen below will appear when loading is complete.
 <img width="1724" alt="Screen Shot 2022-01-03 at 9 08 07 PM" src="https://user-images.githubusercontent.com/45462803/148000464-52c58467-5c15-42fc-a79b-1e8a4108523d.png">
+
+## Resource limitations
+* **Maximum concurrent users** The maximum number of simultaneous users for a given Binder repo is 100. For this reason, please avoid using this lab with Binder for large classes. If you have need for more concurrent users, consider runnnig the lab locally by cloning the repo and running on a local Jupyter server.
+* **Session expiration** Binder environments are meant for interactive and ephemeral coding, meaning that it is ideally suited for relatively short sessions. Binder will automatically shut down user sessions after 10 minutes of inactivity. 
+* **Saving changes** Because Binder sessions are meant to be ephemeral, it is not possible to save changes you make to your Jupyter Notebook on Binder. If you make changes to the notebooks that you want to save, you will need to download the notebook to your own computer by clicking *File > Download as > Notebook (.ipynb)*. To run these notebooks you would need to download the necessary software (e.g. MongoDB, PyMongo, Jupyter Notebook) to your own computer and set up a local environment, The details of local environment set-up are beyond the current scope of this lab. 
 
 ## Contribution
 Please create an [Issue](https://github.com/jchenj/mongodb_binder_test/issues) for any improvements, suggestions or errors in the content.
