@@ -14,13 +14,13 @@ This material is a resource developed by the [MongoDB for Academia](https://www.
 
 ## Format 
 The lab consists of five sections, with a total of 22 exercises: 
-1. Connect to MongoDB & explore your data (4 exercises)
-2. Basic queries (5 exercises)
-3. More complex queries (4 exercises)
-4. Creating and manipulating documents (4 exercises)
-5. Using aggregation pipelines (5 exercises)
+1. **Connect to MongoDB & explore your data** (4 exercises)
+2. **Basic queries** (5 exercises)
+3. **More complex queries** (4 exercises)
+4. **Creating and manipulating documents** (4 exercises)
+5. **Using aggregation pipelines** (5 exercises)
 
-Each section is in a [Jupyter Notebook](https://jupyter.org/). The lab can be completed interactively in the browser in cloud-hosted Jupyter Notebooks created with [Binder](https://mybinder.org/). 
+Each section is in a [Jupyter Notebook](https://jupyter.org/). The lab is designed to be completed interactively in the browser in cloud-hosted Jupyter Notebooks created with [Binder](https://mybinder.org/). 
 
 ## Maximum concurrent users
 The maximum number of simultaneous users for a given Binder repo is 100. For this reason, please avoid using this lab with Binder for large classes. If you have need for more concurrent users, consider runnnig the lab locally by cloning the repo and running on a local Jupyter server.
