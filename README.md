@@ -24,11 +24,8 @@ Each section is in a [Jupyter Notebook](https://jupyter.org/). The lab is design
 
 ## Usage
 1. Click the 'Launch Binder' button to load the lab. 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD?labpath=Contents.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_lab_with_python/HEAD?labpath=Contents.ipynb)
 
-<!--Badge to launch repo without navigating to specific notebook -->
-<!-- [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jchenj/mongodb_binder_test/HEAD)
- -->
 2. The binder will start to load w/ screen below. No action needed from your side. 
 <img width="1745" alt="Screen Shot 2022-01-03 at 9 07 29 PM" src="https://user-images.githubusercontent.com/45462803/148000414-0c5890ce-6af0-4d22-b095-bf1c335a55e4.png">
 3. Loading will continue w/ screen below. Continue to wait. This may take a minute or two.
