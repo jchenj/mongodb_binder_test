@@ -45,7 +45,7 @@ Please create an [Issue](https://github.com/jchenj/mongodb_binder_test/issues) f
 ## Acknowledgements
 This lab makes use of the following open-source projects:
 * The [BinderHub](https://github.com/jupyterhub/binderhub) deployment at [mybinder.org](https://mybinder.org/) for creating an easy way to share a custom computing environment for an educational resource. Thank you to all [Binder](https://jupyter.org/binder) contributors & supporters!  
-* [binder-mongo](https://github.com/ouseful-template-repos/binder-mongo) for the template example of running MongoDB in Binder on which this lab is based. Thank you [@psychemedia](https://github.com/psychemedia)!
+* [binder-mongo](https://github.com/ouseful-template-repos/binder-mongo) for the template example of running MongoDB in Binder on which this lab is based. binder-mongo is licensed under the [MIT License](https://github.com/ouseful-template-repos/binder-mongo/blob/master/LICENSE). Thank you [@psychemedia](https://github.com/psychemedia)!
 
 ## License
 This project is licensed under a
