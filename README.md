@@ -12,8 +12,8 @@ Educators and learners are welcome to use this lab for non-commercial purposes, 
 
 This material is a resource developed by the [MongoDB for Academia](https://www.mongodb.com/developer/academia/) program, which offers resources and support to educators and students teaching and learning with MongoDB. 
 
-## Advisory
-Please update your links - this lab is now at [https://github.com/mongodb/academia-mongodb-lab-python](https://github.com/mongodb/academia-mongodb-lab-python). Maintenance and any future development will be happening there. The lab will also available here until **March 31, 2022**, after which it will only be at the new location.
+## Advisory ⚠️
+**This lab is now being maintained at [https://github.com/mongodb/academia-mongodb-lab-python](https://github.com/mongodb/academia-mongodb-lab-python).** Any future development will be happening there. The lab will also available - though not updated - here until **March 31, 2022**, after which it will only be at the new location.
 
 ## Format 
 The lab consists of five sections, with a total of 22 exercises: 
